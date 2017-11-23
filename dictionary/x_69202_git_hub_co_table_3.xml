@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="table 3" max_length="40" name="x_69202_git_hub_co_table_3" type="collection">
+        <element label="address 3" max_length="40" name="address_3" type="string"/>
+        <element label="name 3" max_length="40" name="name_3" type="string"/>
+    </element>
+</database>
