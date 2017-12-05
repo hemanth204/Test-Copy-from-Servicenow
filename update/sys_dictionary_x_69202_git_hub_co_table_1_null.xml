@@ -55,16 +55,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-11-23 12:11:19</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>c39abd6edbea0300351059d0cf961985</sys_id>
+        <sys_id>e842a46adbb20300351059d0cf961999</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_69202_git_hub_co_table_1</sys_name>
         <sys_package display_value="Git Hub Copy" source="x_69202_git_hub_co">0c99b16edbea0300351059d0cf9619a1</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Git Hub Copy">0c99b16edbea0300351059d0cf9619a1</sys_scope>
-        <sys_update_name>sys_dictionary_x_69202_git_hub_co_table_1_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-11-23 12:11:19</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_69202_git_hub_co_table_1_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-12-05 16:01:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

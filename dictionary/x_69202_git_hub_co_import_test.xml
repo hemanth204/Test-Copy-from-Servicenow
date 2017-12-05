@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Import Test" max_length="40" name="x_69202_git_hub_co_import_test" type="collection">
+        <element label="Company" max_length="40" name="company" type="string"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Purpose" max_length="40" name="purpose" type="string"/>
+    </element>
+</database>

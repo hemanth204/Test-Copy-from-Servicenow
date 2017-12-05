@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Acl Test Table" max_length="40" name="x_69202_git_hub_co_acl_test_table" type="collection">
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
